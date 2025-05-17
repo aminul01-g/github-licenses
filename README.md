@@ -43,7 +43,11 @@ Choose the appropriate license.
 1. Create a file named LICENSE in your repo root:
 
          touch LICENSE
-2. Commit and push:
+2. Paste in the license text from:
+
+         https://choosealicense.com/
+
+4. Commit and push:
 
          git add LICENSE
          git commit -m "Add license"
