@@ -45,9 +45,9 @@ Choose the appropriate license.
          touch LICENSE
 2. Commit and push:
 
-     git add LICENSE
-     git commit -m "Add license"
-     git push
+         git add LICENSE
+         git commit -m "Add license"
+         git push
 ## ❓ Why You Should Use a License
 ✅ Legal Clarity: Lets users know what they can and cannot do.
 
